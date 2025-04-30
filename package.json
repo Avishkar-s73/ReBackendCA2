@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "rebackendca2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avishkar-s73/ReBackendCA2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avishkar-s73/ReBackendCA2/issues"
+  },
+  "homepage": "https://github.com/Avishkar-s73/ReBackendCA2#readme",
+  "description": ""
+}
